@@ -1,8 +1,9 @@
 a{
-    
-    color: rgb(100, 96, 93);
+    background-color: rgb(201, 175, 226);
+    border-radius: 10%;
     margin: 20px;
     width: 50;
+    text-align: center;
 
 }
 .row {
